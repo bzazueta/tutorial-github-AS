@@ -8,5 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         print("esto es un print")
+        print("esto es un print")
+        print("esto es un print")
+        print("esto es un print")
     }
 }
